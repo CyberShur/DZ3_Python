@@ -15,7 +15,7 @@ try:
         if a in lists:
             print('Данное число присутствует в списке')
         else:
-            print ("Такое чисо отсутствует")
+            print ("Такое число отсутствует")
 
     check(N, sp)
 except ValueError:
